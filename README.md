@@ -56,30 +56,6 @@ CamVid is a real-world urban scene dataset containing video frames with **pixel-
 > Please download it separately from the official source and arrange it as shown in the project structure.
 
 
-## ⚙️ Installation
-
-Clone the repository:
-
-```bash
-git clone https://github.com/your-username/unet-camvid-segmentation.git
-cd unet-camvid-segmentation
-```
-
-Install dependencies:
-
-```bash
-pip install -r requirements.txt
-```
-
-
-This script:
-
-* Loads the trained model
-* Generates segmentation predictions
-* Visualizes results alongside ground-truth masks
-
-
-
 ## 📈 Loss Function
 
 The training objective combines:
