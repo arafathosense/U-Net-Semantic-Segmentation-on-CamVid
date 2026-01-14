@@ -9,6 +9,9 @@ The model is trained on the **CamVid Urban Scene Understanding dataset** and lea
 The encoder captures rich spatial context, while the decoder restores fine-grained details using **skip connections**,
 resulting in crisp segmentation masks that preserve object boundaries with high accuracy.
 
+<img width="520" height="528" alt="image" src="https://github.com/user-attachments/assets/8460a2a8-a129-4811-99e4-9f81e1e51884" />
+<img width="1021" height="889" alt="image" src="https://github.com/user-attachments/assets/3d1faac9-88d1-4b67-b690-50ea7f9c9fc1" />
+
 
 ## 🔍 Project Highlights
 
